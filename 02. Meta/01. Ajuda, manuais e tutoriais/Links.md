@@ -10,7 +10,7 @@ Para criar um link para outra nota, basta digitar `[[` que o Obsidian oferecerá
 [[_Notas de literatura]]
 ```
 
-[[_Notas de literatura]]
+[[Notas de literatura]]
 
 É possível renomear o link usando o símbolo |:
 
@@ -19,7 +19,7 @@ Para criar um link para outra nota, basta digitar `[[` que o Obsidian oferecerá
 [[_Notas de literatura|Outro nome para a nota de literatura]]
 ```
 
-[[_Notas de literatura|Outro nome para a nota de literatura]]
+[[Notas de literatura|Outro nome para a nota de literatura]]
 
 ### Links externos (para páginas web ou arquivos no HD)
 
