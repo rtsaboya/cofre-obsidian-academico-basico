@@ -8,7 +8,7 @@ Além disso, o armazenamento em arquivos de texto com extensão `.md` garante qu
 - podem ser abertos em qualquer computador usando qualquer programa que abra arquivos de texto, tais como o Notepad, o que garante preservação das informações no futuro caso o Obsidian não esteja mais disponível por qualquer motivo; e
 - podem ser copiados como backup da mesma maneira que quaisquer outros arquivos, inclusive em serviços de nuvem, se desejado.
 
-![[template_screenshot_2025_01_13.png]]
+![Screenshot do Template](https://github.com/rtsaboya/cofre-obsidian-academico-basico/blob/master/06.%20Anexos/template_screenshot_2025_01_13.png)
 
 ## Como instalar o template
 
