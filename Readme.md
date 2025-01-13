@@ -1,6 +1,8 @@
-Este template oferece uma estrutura básica para um cofre no [Obsidian](https://obsidian.md) voltado à pesquisa científica e trabalhos acadêmicos em geral. Ela é a mais simples possível e pode ser adaptada ao longo do tempo conforme as necessidades que surgirem e as preferências pessoais de organização e manutenção do sistema.
+Este template oferece uma estrutura básica para um cofre no [Obsidian](https://obsidian.md) voltado à pesquisa científica e trabalhos acadêmicos em geral. Ela foi pensada para ser o mais simples possível e facilitar o início do processo de construção do seu sistema de "*Personal Knowledge Management*" (PKM). Além disso, pode (e deve) ser adaptada ao longo do tempo conforme as necessidades que surgirem e as preferências pessoais de organização e manutenção do sistema.
 
-Um cofre nada mais é do que uma pasta no computador com subpastas e arquivos de texto, em um formato chamado [Markdown](https://pt.wikipedia.org/wiki/Markdown). Esses arquivos são lidos pelo Obsidian e formam um sistema interligado de notas ou ideias que nos auxilia a gerenciar nosso aprendizado. Por isso, esse sistema é conhecido como "*Personal Knowledge Management*" (PKM). 
+## O que é um cofre? E por que no Obsidian?
+
+Um cofre nada mais é do que uma pasta no computador com subpastas e arquivos de texto em um formato chamado [Markdown](https://pt.wikipedia.org/wiki/Markdown), combinadas a algumas configurações que ampliam as capacidades do Obsidian (por meio de plugins) e estabelecem como ele deve funcionar. Os arquivos de texto contêm anotações diversas e formam um sistema interligado de notas ou ideias que nos auxilia a gerenciar nosso aprendizado.
 
 Além disso, o armazenamento em arquivos de texto com extensão `.md` garante que eles:
 

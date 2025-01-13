@@ -1,0 +1,3 @@
+Esta pasta pode ser usada para abrigar notas temporárias, ideias a serem avaliadas posteriormente ou qualquer outro tipo de nota que ainda precise passar por algum tipo de processamento antes de ser transformada em uma [[Notas principais|nota principal]].
+
+É recomendado visitar periodicamente esta pasta para processar as notas, decidindo se elas devem ser complementadas, aprimoradas e integradas ao sistema principal, ou descartadas.
