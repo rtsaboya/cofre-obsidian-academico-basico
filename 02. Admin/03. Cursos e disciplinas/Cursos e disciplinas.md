@@ -1,0 +1,1 @@
+Nesta pasta podem ser criadas subpastas para as disciplinas cursadas. As anotações podem abranger notas de aula, reflexões próprias, dúvidas surgidas, links para materiais externos, etc.

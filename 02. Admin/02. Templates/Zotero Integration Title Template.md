@@ -1,12 +1,13 @@
-- [[Zotero-integration Import Template]]
+O código abaixo é usado nas configurações do plugin Zotero Integration para definir o título que a nota de literatura terá. 
+
+Ele é longo porque precisa determinar o número de autores e selecionar a opção correta entre:
+
+- Sobrenome (ano) título - um(a) autor(a);
+- Sobrenome 1 & Sobrenome 2 (ano) título - dois(duas) autores(as); ou
+- Sobrenome 1 et al (ano) título - três ou mais autores(as).
 
 ```
 {% set authlist = authors %} {%- if creators.length>2 %} {%- set authlist = creators[0].lastName+' et al.'-%} {% endif -%} {%- if creators.length == 1 %} {%- set authlist = creators[0].lastName-%} {% endif -%} {%- if creators.length == 2 %} {%- set authlist = creators[0].lastName+' & '+creators[1].lastName-%} {% endif -%}{{authlist}} ({{date | format("YYYY")}}) {{title}}.md
 ```
 
-Ele testa quantos autores há:
-- Se for mais que dois, pega o primeira e acrescente et al.
-- Se forem dois, lista os sobrenomes dos dois autores separados por ' & '.
-- Se for só 1, lista só o sobrenome.
-
-Fonte: [aqui](https://www.reddit.com/r/ObsidianMD/comments/16cekwd/zotero_integration_templating_formatting_author/).
+O código está incluído aqui como referência apenas, uma vez que essa configuração já está incluída no template.

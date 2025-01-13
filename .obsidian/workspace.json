@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "02. Admin/04. Diário/2025-01-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-01-11"
             }
           }
         ]
@@ -36,8 +36,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "682bd1e5eb94ba4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Admin/01. Ajuda, manuais e tutoriais/Como criar uma nota de literatura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como criar uma nota de literatura"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "02. Admin/04. Diário/2025-01-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-01-11"
             }
           },
           {
@@ -128,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "02. Admin/04. Diário/2025-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-01-11"
             }
           },
           {
@@ -155,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "02. Admin/04. Diário/2025-01-11.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-01-11"
             }
           },
           {
@@ -191,27 +206,28 @@
   },
   "active": "960dcb20da387e20",
   "lastOpenFiles": [
-    "Readme.md",
-    "Home.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
+    "02. Admin/03. Cursos e disciplinas/Cursos e disciplinas.md",
+    "02. Admin/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
+    "02. Admin/02. Templates/Zotero Integration Title Template.md",
+    "02. Admin/02. Templates/Template Nota de Literatura Manual.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Links.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Como criar uma nota de literatura.md",
+    "Home.md",
+    "Readme.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
     "02. Admin/Untitled",
     "04. Notas de literatura/Notas de literatura.md",
-    "02. Admin/02. Templates/Template Nota de Literatura Manual.md",
     "Feitosa et al. (2007) Global and local spatial indices of urban segregation.md",
     "01. Inbox - Fleeting Notes/Notas temporárias.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Comentários.md",
     "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
     "05. Projetos e produtos/Projetos em andamento.md",
-    "02. Admin/03. Cursos e disciplinas/Cursos e disciplinas.md",
     "03. Notas principais/Notas principais.md",
     "05. Projetos e produtos/01. Concluídos/Projetos já concluídos.md",
     "02. Admin/04. Diário/2025-01-11.md",
     "02. Meta/04. Diário/2025-01-12.md",
     "2025-01-12.md",
-    "02. Admin/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
     "02. Admin/03. Cursos e disciplinas/2026",
     "02. Admin/03. Cursos e disciplinas/2025",
     "02. Admin/01. Ajuda, manuais e tutoriais/Fórmulas e equações matemáticas.md",
@@ -219,7 +235,6 @@
     "02. Admin/01. Ajuda, manuais e tutoriais/Listas e listas de tarefas.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Inserir imagens.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Citações.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Caixas de destaque.md",
     "06. Anexos/Pasted image 20250111130326.png",
     "02. Admin/04. Diário",
     "05. Projetos e produtos/09. Abandonados",
