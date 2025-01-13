@@ -165,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,14 +174,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +194,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "960dcb20da387e20",
+  "active": "eede83fc9609e399",
   "lastOpenFiles": [
+    "06. Anexos/template_screenshot_2025_01_13.png",
+    "06. Anexos/Obsidian_6XcFqBGjdP.png",
+    "Home.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Links.md",
     "02. Admin/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
-    "01. Inbox - Fleeting Notes/Notas temporárias.md",
+    "01. Inbox - Notas temporárias/Notas temporárias.md",
     "Readme.md",
-    "06. Anexos/template_screenshot_2025_01_13.png",
     "06. Anexos/markdown_notation_cheatsheet.png",
     "06. Imagens",
-    "Home.md",
     "02. Admin/04. Diário/2025-01-11.md",
     "Feitosa et al. (2007) Global and local spatial indices of urban segregation.md",
     "02. Admin/03. Cursos e disciplinas/Cursos e disciplinas.md",
