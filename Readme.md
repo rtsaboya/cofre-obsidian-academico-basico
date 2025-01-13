@@ -8,6 +8,8 @@ Além disso, o armazenamento em arquivos de texto com extensão `.md` garante qu
 - podem ser abertos em qualquer computador usando qualquer programa que abra arquivos de texto, tais como o Notepad, o que garante preservação das informações no futuro caso o Obsidian não esteja mais disponível por qualquer motivo; e
 - podem ser copiados como backup da mesma maneira que quaisquer outros arquivos, inclusive em serviços de nuvem, se desejado.
 
+![[template_screenshot_2025_01_13.png]]
+
 ## Como instalar o template
 
 1. Faça o download do arquivo `.zip` da última versão disponível para uma pasta do computador e descompacte-o para a pasta em que você deseja que o cofre do Obsidian fique armazenado.

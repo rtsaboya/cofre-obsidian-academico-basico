@@ -14,6 +14,6 @@
 
 ## Quadro resumo
 
-![[Pasted image 20250111130326.png]]
+![[markdown_notation_cheatsheet.png]]
 
 Fonte: [aqui](https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/).

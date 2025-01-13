@@ -15,4 +15,4 @@ A notação usada para mostrar uma imagem em uma nota é:
 
 Note o ponto de exclamação antes dos colchetes. É ele que indica que a imagem não deve ser apenas linkada, mas mostrada na nota atual. O código acima tem como resultado:
 
-![[Pasted image 20250111130326.png]]
+![[markdown_notation_cheatsheet.png]]

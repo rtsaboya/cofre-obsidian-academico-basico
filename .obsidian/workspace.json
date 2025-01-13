@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Readme"
             }
           }
         ]
@@ -104,25 +104,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08092ee8c2e22438",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Home"
-            }
-          },
-          {
             "id": "0406a26696b4267e",
             "type": "leaf",
             "state": {
@@ -172,7 +153,32 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "8c109e423d09e414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08092ee8c2e22438",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Readme"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +197,11 @@
   },
   "active": "960dcb20da387e20",
   "lastOpenFiles": [
+    "06. Anexos/template_screenshot_2025_01_13.png",
+    "06. Anexos/markdown_notation_cheatsheet.png",
+    "Readme.md",
+    "06. Imagens",
+    "Home.md",
     "02. Admin/04. Diário/2025-01-11.md",
     "Feitosa et al. (2007) Global and local spatial indices of urban segregation.md",
     "02. Admin/03. Cursos e disciplinas/Cursos e disciplinas.md",
@@ -199,8 +210,6 @@
     "02. Admin/02. Templates/Template Nota de Literatura Manual.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Links.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Como criar uma nota de literatura.md",
-    "Home.md",
-    "Readme.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
     "02. Admin/Untitled",
@@ -219,14 +228,11 @@
     "02. Admin/01. Ajuda, manuais e tutoriais/Negrito e itálico.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Listas e listas de tarefas.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Inserir imagens.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Citações.md",
-    "06. Anexos/Pasted image 20250111130326.png",
     "02. Admin/04. Diário",
     "05. Projetos e produtos/09. Abandonados",
     "05. Projetos e produtos/01. Concluídos",
     "05. Projetos e produtos/08. Arquivados",
     "02. Admin/03. Cursos e disciplinas",
-    "02. Admin/09. Outros",
-    "02. Admin/02. Templates"
+    "02. Admin/09. Outros"
   ]
 }
