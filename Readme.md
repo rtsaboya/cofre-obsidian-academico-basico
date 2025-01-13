@@ -14,8 +14,9 @@ Além disso, o armazenamento em arquivos de texto com extensão `.md` garante qu
 
 ## Como instalar o template
 
-1. Faça o download do arquivo `.zip` da última versão disponível para uma pasta do computador e descompacte-o para a pasta em que você deseja que o cofre do Obsidian fique armazenado.
-2. Após instalar e abrir o Obsidian, serão oferecidas duas opções: criar um novo cofre vazio ou usar uma pasta existente. Selecione esta segunda opção e aponte para a pasta usada no passo anterior, contendo a estrutura básica de pastas do cofre.
-3. Abra a nota "Home" e comece a explorar o codre.
+1. Faça o download do arquivo `.zip` da última versão disponível clicando na seta ao lado do botão "Code," acima e à direita, e selecionando a opção "Download ZIP."
+2. Salve o arquivo em uma pasta do computador e descompacte-o para a pasta em que você deseja que o cofre do Obsidian fique armazenado permanentemente. Provavelmente será necessário criar essa pasta especificamente para isso, na localização desejada.
+3. Após instalar e abrir o Obsidian, serão oferecidas duas opções: criar um novo cofre vazio ou usar uma pasta existente. Selecione esta segunda opção e aponte para a pasta criada no passo anterior, contendo a estrutura básica de pastas do cofre existente no arquivo ZIP original.
+4. Abra a nota "Home" e comece a explorar o cofre.
 
 

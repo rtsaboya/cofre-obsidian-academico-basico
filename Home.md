@@ -10,9 +10,9 @@ Esta página pode ser personalizada para incluir os links para as páginas mais 
 - Etc.
 
 > [!Important] Atenção
-> O sistema pode ser tão simples ou tão complexo quanto se deseje, o que pode criar alguma resistência tentando criar o sistema "perfeito" desde o começo. Por isso, o mais importante é começar com o básico, criando as primeiras notas e conectando-as, quando possível, minimizando o atrito para criar novas notas. 
+> O sistema pode ser tão simples ou tão complexo quanto se deseje, o que pode desestimular ou criar alguma ansiedade no começo do processo. Por isso, o mais importante é começar com o básico, criando as primeiras notas e conectando-as, quando possível, minimizando o atrito para criar novas notas. 
 > 
-> Aos poucos, é possível aprimorar as notas criadas, criar novas conexões, reestruturar o cofre (se necessário) e adicionar mais complexidade a ele. 
+> Aos poucos, é possível aprimorar as notas criadas, criar novas conexões, reestruturar o cofre (se necessário) e conferir maior complexidade a ele. 
 
 
 ## Por onde começar?
