@@ -1,10 +1,19 @@
+Este template oferece uma estrutura básica para um cofre no [Obsidian](https://obsidian.md) voltado à pesquisa científica e trabalhos acadêmicos em geral. Ela é a mais simples possível e pode ser adaptada ao longo do tempo conforme as necessidades que surgirem e as preferências pessoais de organização e manutenção do sistema.
 
-Esta página pode ser personalizada para incluir os links para as páginas mais importantes no seu cofre. Normalmente, elas são os MOCs ([Maps of Content](https://notes.linkingyourthinking.com/Cards/MOCs+Overview)) que servem como entrada para assuntos de interesse, mas podem ser qualquer coisa:
+Um cofre nada mais é do que uma pasta no computador com subpastas e arquivos de texto, em um formato chamado [Markdown](https://pt.wikipedia.org/wiki/Markdown). Esses arquivos são lidos pelo Obsidian e formam um sistema interligado de notas ou ideias que nos auxilia a gerenciar nosso aprendizado. Por isso, esse sistema é conhecido como "*Personal Knowledge Management*" (PKM). 
 
-- Nota contendo a organização geral da uma disciplina sendo cursada.
-- Nota de literatura de um trabalho especialmente importante ou que esteja sendo lido e processado.
-- Nota organizadora de um artigo em elaboração.
-- Notas referentes a capítulos da dissertação ou tese.
-- Etc.
+Além disso, o armazenamento em arquivos de texto com extensão `.md` garante que eles:
 
-Veja como utilizar a [[Markdown - Sintaxe|Sintaxe Markdown]] para formatar suas notas. 
+- estão sempre no computador, em um formato acessível, e não em alguma base de dados de um serviço na nuvem, por exemplo;
+- podem ser abertos em qualquer computador usando qualquer programa que abra arquivos de texto, tais como o Notepad, o que garante preservação das informações no futuro caso o Obsidian não esteja mais disponível por qualquer motivo; e
+- podem ser copiados como backup da mesma maneira que quaisquer outros arquivos, inclusive em serviços de nuvem, se desejado.
+
+## Por onde começar?
+
+1. Faça o download do arquivo `.zip` da última versão disponível para uma pasta do computador e descompacte-o para a pasta em que você deseja que o cofre do Obsidian fique armazenado.
+2. Após instalar e abrir o Obsidian, serão oferecidas duas opções: criar um novo cofre vazio ou usar uma pasta existente. Selecione esta segunda opção e aponte para a pasta usada no passo anterior, contendo a estrutura básica de pastas do cofre.
+3. Examine a estrutura de pastas proposta. Dentro de cada uma há uma nota com uma breve descrição de como essa pasta poderia ser utilizada.
+4. Crie sua primeira nota pressionando Ctrl + N, dando-lhe um nome e arrastando-a, na coluna à esquerda, para a pasta desejada.
+5. Veja como utilizar a [[Markdown - Sintaxe|Sintaxe Markdown]] para formatar suas notas. Dê especial atenção à estrutura de [[Cabeçalhos|cabeçalhos]] e aos [[Links#Links internos (para outras notas no cofre Obsidian)|links entre as notas]], para começar.
+
+

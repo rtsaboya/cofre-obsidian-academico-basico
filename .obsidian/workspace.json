@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projetos abandonados"
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "960dcb20da387e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown - Sintaxe"
+            }
+          },
+          {
+            "id": "553335089d4873b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "96b879e98fd10faa",
@@ -43,12 +68,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Notas de literatura/Notas de literatura.md",
+                "file": "02. Admin/01. Ajuda, manuais e tutoriais/Como criar uma nota de literatura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas de literatura"
+              "title": "Como criar uma nota de literatura"
+            }
+          },
+          {
+            "id": "efc0c58bb702586d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Admin/02. Templates/Template Nota de Literatura Manual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template Nota de Literatura Manual"
+            }
+          },
+          {
+            "id": "69084b45197ccdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feitosa et al. (2007) Global and local spatial indices of urban segregation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feitosa et al. (2007) Global and local spatial indices of urban segregation"
             }
           }
         ],
@@ -124,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
+                "file": "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projetos abandonados"
+              "title": "Backlinks for Markdown - Sintaxe"
             }
           },
           {
@@ -143,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
+                "file": "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Projetos abandonados"
+              "title": "Outgoing links from Markdown - Sintaxe"
             }
           },
           {
@@ -170,10 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md"
+                "file": "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Projetos abandonados"
+              "title": "Outline of Markdown - Sintaxe"
             }
           },
           {
@@ -203,44 +256,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eede83fc9609e399",
+  "active": "960dcb20da387e20",
   "lastOpenFiles": [
-    "05. Projetos e produtos/Projetos em andamento.md",
-    "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
-    "02. Meta/03. Cursos e disciplinas/Cursos e disciplinas.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Links.md",
+    "Readme.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Como criar uma nota de literatura.md",
+    "02. Admin/Untitled",
     "04. Notas de literatura/Notas de literatura.md",
+    "02. Admin/02. Templates/Template Nota de Literatura Manual.md",
+    "Feitosa et al. (2007) Global and local spatial indices of urban segregation.md",
+    "Home.md",
+    "01. Inbox - Fleeting Notes/Notas temporárias.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Comentários.md",
+    "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
+    "05. Projetos e produtos/Projetos em andamento.md",
+    "02. Admin/03. Cursos e disciplinas/Cursos e disciplinas.md",
     "03. Notas principais/Notas principais.md",
     "05. Projetos e produtos/01. Concluídos/Projetos já concluídos.md",
-    "02. Meta/04. Diário/2025-01-11.md",
+    "02. Admin/04. Diário/2025-01-11.md",
     "02. Meta/04. Diário/2025-01-12.md",
     "2025-01-12.md",
-    "02. Meta/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
-    "Readme.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
-    "02. Meta/03. Cursos e disciplinas/2026",
-    "02. Meta/03. Cursos e disciplinas/2025",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Fórmulas e equações matemáticas.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Comentários.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Negrito e itálico.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Listas e listas de tarefas.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Links.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Inserir imagens.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Citações.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Caixas de destaque.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Blocos com códigos e programas.md",
-    "02. Meta/01. Ajuda, manuais e tutoriais/Atalhos úteis.md",
+    "02. Admin/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
+    "02. Admin/03. Cursos e disciplinas/2026",
+    "02. Admin/03. Cursos e disciplinas/2025",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Fórmulas e equações matemáticas.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Negrito e itálico.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Listas e listas de tarefas.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Inserir imagens.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Citações.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Caixas de destaque.md",
     "06. Anexos/Pasted image 20250111130326.png",
-    "02. Meta/02. Templates/Zotero Integration Title Template.md",
-    "02. Meta/04. Diário",
-    "02. Meta/02. Templates/Zotero-integration Import Template.md",
-    "Welcome.md",
+    "02. Admin/04. Diário",
     "05. Projetos e produtos/09. Abandonados",
     "05. Projetos e produtos/01. Concluídos",
     "05. Projetos e produtos/08. Arquivados",
-    "02. Meta/03. Cursos e disciplinas",
-    "02. Meta/09. Outros",
-    "02. Meta/02. Templates",
-    "02. Meta/01. Ajuda, manuais e tutoriais"
+    "02. Admin/03. Cursos e disciplinas",
+    "02. Admin/09. Outros",
+    "02. Admin/02. Templates"
   ]
 }
