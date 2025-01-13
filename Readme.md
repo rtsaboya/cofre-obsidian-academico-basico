@@ -8,12 +8,10 @@ Além disso, o armazenamento em arquivos de texto com extensão `.md` garante qu
 - podem ser abertos em qualquer computador usando qualquer programa que abra arquivos de texto, tais como o Notepad, o que garante preservação das informações no futuro caso o Obsidian não esteja mais disponível por qualquer motivo; e
 - podem ser copiados como backup da mesma maneira que quaisquer outros arquivos, inclusive em serviços de nuvem, se desejado.
 
-## Por onde começar?
+## Como instalar o template
 
 1. Faça o download do arquivo `.zip` da última versão disponível para uma pasta do computador e descompacte-o para a pasta em que você deseja que o cofre do Obsidian fique armazenado.
 2. Após instalar e abrir o Obsidian, serão oferecidas duas opções: criar um novo cofre vazio ou usar uma pasta existente. Selecione esta segunda opção e aponte para a pasta usada no passo anterior, contendo a estrutura básica de pastas do cofre.
-3. Examine a estrutura de pastas proposta. Dentro de cada uma há uma nota com uma breve descrição de como essa pasta poderia ser utilizada.
-4. Crie sua primeira nota pressionando Ctrl + N, dando-lhe um nome e arrastando-a, na coluna à esquerda, para a pasta desejada.
-5. Veja como utilizar a [[Markdown - Sintaxe|Sintaxe Markdown]] para formatar suas notas. Dê especial atenção à estrutura de [[Cabeçalhos|cabeçalhos]] e aos [[Links#Links internos (para outras notas no cofre Obsidian)|links entre as notas]], para começar.
+3. Abra a nota "Home" e comece a explorar o codre.
 
 

@@ -13,3 +13,8 @@ Esta página pode ser personalizada para incluir os links para as páginas mais 
 > Aos poucos, é possível aprimorar as notas criadas, criar novas conexões, reestruturar o cofre (se necessário) e adicionar mais complexidade a ele. 
 
 
+## Por onde começar?
+
+1. Examine a estrutura de pastas proposta. Dentro de cada uma há uma nota com uma breve descrição de como a pasta poderia ser utilizada.
+2. Crie sua primeira nota pressionando Ctrl + N, dando-lhe um nome e arrastando-a, na coluna à esquerda, para a pasta desejada.
+3. Veja como utilizar a [[Markdown - Sintaxe|Sintaxe Markdown]] para formatar suas notas. Dê especial atenção à estrutura de [[Cabeçalhos|cabeçalhos]] e aos [[Links#Links internos (para outras notas no cofre Obsidian)|links entre as notas]], para começar.
