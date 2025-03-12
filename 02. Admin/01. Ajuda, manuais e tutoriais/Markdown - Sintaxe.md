@@ -10,6 +10,7 @@
 - [[Inserir imagens]]
 - [[Fórmulas e equações matemáticas]]
 - [[Blocos com códigos e programas]]
+- [[Notas de rodapé]]
 
 
 ## Quadro resumo
