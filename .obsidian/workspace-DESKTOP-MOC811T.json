@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3466923bbce704",
+        "id": "05749881a28fb50c",
         "type": "tabs",
         "children": [
           {
-            "id": "f311a673e1a5e8b5",
+            "id": "960dcb20da387e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "af5e4df332813b52",
+        "id": "96b879e98fd10faa",
         "type": "tabs",
         "children": [
           {
-            "id": "5caf47a034a5f54e",
+            "id": "f0121d1980247722",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -56,8 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Readme"
             }
           }
         ]
@@ -195,25 +195,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5caf47a034a5f54e",
+  "active": "960dcb20da387e20",
   "lastOpenFiles": [
-    "Readme.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
-    "Nova nota.md",
     "Home.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
-    "02. Admin/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Links.md",
-    "O que é um cofre E por que no Obsidian.md",
-    "05. Projetos e produtos/Projetos em andamento.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Notas de rodapé.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Atalhos úteis.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Blocos com códigos e programas.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Caixas de destaque.md",
-    "02. Admin/01. Ajuda, manuais e tutoriais/Citações.md",
     "06. Anexos/template_screenshot_2025_01_13.png",
     "06. Anexos/Obsidian_6XcFqBGjdP.png",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Links.md",
+    "02. Admin/03. Cursos e disciplinas/2025/Instrumentação para a Pesquisa - Índice.md",
     "01. Inbox - Notas temporárias/Notas temporárias.md",
+    "Readme.md",
     "06. Anexos/markdown_notation_cheatsheet.png",
     "06. Imagens",
     "02. Admin/04. Diário/2025-01-11.md",
@@ -222,14 +212,23 @@
     "02. Admin/02. Templates/Zotero Integration Title Template.md",
     "02. Admin/02. Templates/Template Nota de Literatura Manual.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Como criar uma nota de literatura.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Cabeçalhos.md",
     "02. Admin/Untitled",
     "04. Notas de literatura/Notas de literatura.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Comentários.md",
     "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
+    "05. Projetos e produtos/Projetos em andamento.md",
     "03. Notas principais/Notas principais.md",
     "05. Projetos e produtos/01. Concluídos/Projetos já concluídos.md",
+    "02. Meta/04. Diário/2025-01-12.md",
+    "2025-01-12.md",
     "02. Admin/03. Cursos e disciplinas/2026",
     "02. Admin/03. Cursos e disciplinas/2025",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Fórmulas e equações matemáticas.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Negrito e itálico.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Listas e listas de tarefas.md",
+    "02. Admin/01. Ajuda, manuais e tutoriais/Inserir imagens.md",
     "02. Admin/04. Diário",
     "05. Projetos e produtos/09. Abandonados",
     "05. Projetos e produtos/01. Concluídos",
