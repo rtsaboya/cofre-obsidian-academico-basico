@@ -34,7 +34,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -60,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -186,18 +186,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
   "active": "5caf47a034a5f54e",
   "lastOpenFiles": [
     "02. Admin/04. Diário/2025-03-27.md",
+    "02. Admin/02. Templates/Zotero-integration Import Template.md",
+    "Wilson (1967) A statistical theory of spatial distribution models.md",
     "02. Admin/04. Diário/2025-01-11.md",
     "Readme.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Markdown - Sintaxe.md",
@@ -226,8 +228,6 @@
     "02. Admin/Untitled",
     "04. Notas de literatura/Notas de literatura.md",
     "02. Admin/01. Ajuda, manuais e tutoriais/Comentários.md",
-    "05. Projetos e produtos/09. Abandonados/Projetos abandonados.md",
-    "03. Notas principais/Notas principais.md",
     "02. Admin/03. Cursos e disciplinas/2026",
     "02. Admin/03. Cursos e disciplinas/2025",
     "02. Admin/04. Diário",

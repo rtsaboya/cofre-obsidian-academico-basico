@@ -21,7 +21,7 @@ Além disso, o armazenamento em arquivos de texto com extensão `.md` garante qu
 
 ## Como configurar a integração com o Zotero
 
-1. Faça o download e instale o Zotero.
+1. Faça o download e instale o [Zotero](https://www.zotero.org).
 2. Instale o plugin "Better BibTeX":
 	1. Faça o download do arquivo xpi da [última versão disponível](https://github.com/retorquere/zotero-better-bibtex/releases/latest).
 	2. No Zotero, vá no menu Tools > Plugins.
