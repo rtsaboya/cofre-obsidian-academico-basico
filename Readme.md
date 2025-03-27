@@ -19,4 +19,20 @@ Além disso, o armazenamento em arquivos de texto com extensão `.md` garante qu
 3. Após instalar e abrir o Obsidian, serão oferecidas duas opções: criar um novo cofre vazio ou usar uma pasta existente. Selecione esta segunda opção e aponte para a pasta criada no passo anterior, contendo a estrutura básica de pastas do cofre existente no arquivo ZIP original.
 4. Abra a nota "Home" e comece a explorar o cofre.
 
+## Como configurar a integração com o Zotero
 
+1. Faça o download e instale o Zotero.
+2. Instale o plugin "Better BibTeX":
+	1. Faça o download do arquivo xpi da [última versão disponível](https://github.com/retorquere/zotero-better-bibtex/releases/latest).
+	2. No Zotero, vá no menu Tools > Plugins.
+	3. Clique na roldana localizada no canto superior direito e selecione "Install plugin from file..."
+	4. Na caixa de diálogo, aponte para o arquivo xpi baixado no passo 1.
+
+## Como importar referências do Zotero
+
+Tendo configurado o Zotero como descrito na seção anterior:
+1. Certifique-se de que ele esteja rodando e pressione ctrl + shift + O.
+2. Uma barra do Zotero se abrirá para você informar qual referência deseja importar. Digite qualquer parte do nome da referência ou de seus autores.
+3. Selecione, dentre as opções oferecidas pelo Zotero, a desejada e pressione Enter.
+4. O Obsidian irá criar uma nova nota, com o título referenciando o trabalho e seus dados básicos já inseridos no corpo da nota como Propriedades. Caso a referência no Zotero esteja associada a um PDF e existam realces já feitos nele, estes serão importados também.
+5. Se desejar personalizar o template de importação do Zotero, é possível abrir a [[Zotero-integration Import Template|nota com o template]] e editar seu conteúdo diretamente. Alternativamente, é possível também duplicá-la e fazer as modificações na cópia, lembrando de depois editar as configurações do plugin Zotero para indicar na opção "Template File" o novo Template a ser usado.

@@ -9,9 +9,9 @@
     {
       "name": "Import #1",
       "outputPathTemplate": "{% set authlist = authors %} {%- if creators.length>2 %} {%- set authlist = creators[0].lastName+' et al.'-%} {% endif -%} {%- if creators.length == 1 %} {%- set authlist = creators[0].lastName-%} {% endif -%} {%- if creators.length == 2 %} {%- set authlist = creators[0].lastName+' & '+creators[1].lastName-%} {% endif -%}{{authlist}} ({{date | format(\"YYYY\")}}) {{title}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageOutputPathTemplate": "06. Anexos/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "02. Meta/02. Templates/Zotero-integration Import Template.md",
+      "templatePath": "02. Admin/02. Templates/Zotero-integration Import Template.md",
       "cslStyle": "apa"
     }
   ],
