@@ -5,7 +5,7 @@
 - [[Negrito e itálico]]
 - [[Citações]]: para destacar trechos escritos por outras pessoas.
 - [[Comentários]]: para incluir textos que não são exportados posteriormente.
-- [[Caixas de destaque]]
+- [[Caixas de destaque (Callouts)]]
 - [[Atalhos úteis]]
 - [[Inserir imagens]]
 - [[Fórmulas e equações matemáticas]]

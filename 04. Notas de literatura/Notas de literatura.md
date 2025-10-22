@@ -11,5 +11,5 @@ Normalmente é criada apenas uma nota para cada trabalho. A partir dela, podem s
 - Comentários próprios sobre as ideias dos autores (podem ser transferidas para notas próprias principais, se for o caso)
 	- Explicações, dúvidas, etc.
 
-Veja [[Como criar uma nota de literatura]].
+Veja [[Como criar uma nota de literatura]] e o [[Template Nota de Literatura Manual]].
 

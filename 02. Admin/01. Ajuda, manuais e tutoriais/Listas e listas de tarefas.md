@@ -1,8 +1,9 @@
 ---
 parent: "[[Markdown - Sintaxe]]"
 ---
+
 > [!tip] Dica
-> Este template já tem configurado um atalho (Ctrl + Enter) para alternar entre:
+> Este template já vem configurado com um atalho (Ctrl + Enter) para alternar entre:
 > 
 > - Item de lista simples não ordenada.
 > - Item de lista de tarefas não marcado.
@@ -57,18 +58,14 @@ Para criar uma lista não ordenada, adicione traços (-), asteriscos (*) ou sina
 itens de linha.
 ```markdown
 - Exemplo 1
-
 * Exemplo 2
-
 + Exemplo 3
 ```
 
 Vai gerar:
 
 - Exemplo 1
-
 * Exemplo 2
-
 + Exemplo 3
 
 ## Lista de tarefas
