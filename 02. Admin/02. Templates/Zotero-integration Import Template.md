@@ -18,6 +18,8 @@ Link Zotero: {{desktopURI}}
 
 {% for annotation in annotations %}{% if annotation.annotatedText %}
 > {{annotation.annotatedText}} ({{authlist}}, {{date | format("YYYY")}}, p. {{annotation.pageLabel}}){% endif %}
+{% if annotation.imageBaseName %}![[{{ annotation.imageBaseName }}]]
+*Screenshot from p. {{annotation.pageLabel}}*{% endif %}
 {% if annotation.comment %}
 {{annotation.comment}}{% endif %}{% endfor %}
 
